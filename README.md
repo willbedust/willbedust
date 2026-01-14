@@ -2,9 +2,9 @@
 
 ## Introduction 🤗
 
-My name is **Yurpalov Sergey**, I'm a first year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the masters program [AI Talent Hub](https://ai.itmo.ru/) from SPB, Russia. 
+My name is **Yurpalov Sergey**, I'm a second year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the masters program [AI Talent Hub](https://ai.itmo.ru/) from SPB, Russia. 
 
-Currently working in [Raiffeisen Bank](https://www.raiffeisen.ru/) as NLP Machine Learning Engineer. You can check out my [CV](https://clck.ru/37Pwcr).
+Currently working in [Raiffeisen Bank](https://www.raiffeisen.ru/) as Machine Learning Engineer. You can check out my [CV](https://vk.cc/cTi6ji).
 
 **_I'm always open for new opportunities and interesting projects!_**
 
@@ -36,8 +36,8 @@ If you've opened this profile to find some solved tasks from the ITMO courses, g
 
 ## Stats 📊
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wilfordaf&show_icons=true&card_width=495&theme=dracula)
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfordaf&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
+![My GitHub stats](https://github-readme-stats-wilfordafs-projects.vercel.app/api?username=wilfordaf&show_icons=true&card_width=495&theme=dracula)
+![My top languages](https://github-readme-stats-wilfordafs-projects.vercel.app/api/top-langs/?username=wilfordaf&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats-two-delta.vercel.app?user=wilfordaf&theme=dracula)](https://git.io/streak-stats)
 
 ## **Hard skills** 🧠
