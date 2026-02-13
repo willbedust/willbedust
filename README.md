@@ -109,5 +109,5 @@ If you've opened this profile to find some solved tasks from the ITMO courses, g
 [<img align="left" alt="DS" width="80px" src="https://img.icons8.com/bubbles/200/null/discord.png"/>][ds]
 
 [vk]: https://vk.com/wilfordaf
-[tg]: https://t.me/wilfordaf
+[tg]: https://t.me/willbedust
 [ds]: https://discordapp.com/users/825760866124955679
