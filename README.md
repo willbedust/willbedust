@@ -14,31 +14,31 @@ If you've opened this profile to find some solved tasks from the ITMO courses, g
 
 **Bachelors Degree - Informational Systems and Technologies**
 * 👶 **First year**: 
-    - [Semester 1](https://github.com/wilfordaf/IS-2020-1_Sem)
-    - [Semester 2](https://github.com/wilfordaf/IS-2020-2_Sem)
+    - [Semester 1](https://github.com/willbedust/IS-2020-1_Sem)
+    - [Semester 2](https://github.com/willbedust/IS-2020-2_Sem)
 * 👦 **Second year**:
-    - [Semester 3](https://github.com/wilfordaf/IS-2020-3_Sem)
-    - [Semester 4](https://github.com/wilfordaf/IS-2020-4_Sem)
+    - [Semester 3](https://github.com/willbedust/IS-2020-3_Sem)
+    - [Semester 4](https://github.com/willbedust/IS-2020-4_Sem)
 * 👨 **Third year**:
-    - [Semester 5](https://github.com/wilfordaf/IS-2020-5_Sem)
-    - [Semester 6](https://github.com/wilfordaf/IS-2020-6_Sem)
+    - [Semester 5](https://github.com/willbedust/IS-2020-5_Sem)
+    - [Semester 6](https://github.com/willbedust/IS-2020-6_Sem)
 * 👴 **Fourth year**
-    - [Semester 7](https://github.com/wilfordaf/IS-2020-7_Sem)
-    - [Semester 8](https://github.com/wilfordaf/IS-2020-8_Sem)
+    - [Semester 7](https://github.com/willbedust/IS-2020-7_Sem)
+    - [Semester 8](https://github.com/willbedust/IS-2020-8_Sem)
  
 **Masters Degree - Artificial Intelligence**
 * 💀 **First year**
-    - [Semester 1](https://github.com/wilfordaf/AI-2024-1_Sem)
-    - [Semester 2](https://github.com/wilfordaf/AI-2024-2_Sem)
+    - [Semester 1](https://github.com/willbedust/AI-2024-1_Sem)
+    - [Semester 2](https://github.com/willbedust/AI-2024-2_Sem)
 * 👻 **Second year**
     - Semester 3
     - Semester 4
 
 ## Stats 📊
 
-![My GitHub stats](https://github-readme-stats-wilfordafs-projects.vercel.app/api?username=wilfordaf&show_icons=true&card_width=495&theme=dracula)
-![My top languages](https://github-readme-stats-wilfordafs-projects.vercel.app/api/top-langs/?username=wilfordaf&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats-two-delta.vercel.app?user=wilfordaf&theme=dracula)](https://git.io/streak-stats)
+![My GitHub stats](https://github-readme-stats-wilfordafs-projects.vercel.app/api?username=willbedust&show_icons=true&card_width=495&theme=dracula)
+![My top languages](https://github-readme-stats-wilfordafs-projects.vercel.app/api/top-langs/?username=willbedust&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats-two-delta.vercel.app?user=willbedust&theme=dracula)](https://git.io/streak-stats)
 
 ## **Hard skills** 🧠
 
@@ -108,6 +108,6 @@ If you've opened this profile to find some solved tasks from the ITMO courses, g
 [<img align="left" alt="TG" width="80px" src="https://img.icons8.com/bubbles/200/null/telegram-app.png"/>][tg]
 [<img align="left" alt="DS" width="80px" src="https://img.icons8.com/bubbles/200/null/discord.png"/>][ds]
 
-[vk]: https://vk.com/wilfordaf
+[vk]: https://vk.com/willbedust
 [tg]: https://t.me/willbedust
 [ds]: https://discordapp.com/users/825760866124955679
