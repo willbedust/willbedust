@@ -4,7 +4,7 @@
 
 My name is **Yurpalov Sergey**, I'm a second year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the masters program [AI Talent Hub](https://ai.itmo.ru/) from SPB, Russia. 
 
-Currently working in [Raiffeisen Bank](https://www.raiffeisen.ru/) as Machine Learning Engineer. You can check out my [CV](https://vk.cc/cTi6ji).
+Currently working in [VK](https://www.vk.com/) as Senior LLM Engineer. You can check out my [CV](https://vk.cc/cTi6ji).
 
 **_I'm always open for new opportunities and interesting projects!_**
 
