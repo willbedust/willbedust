@@ -2,7 +2,7 @@
 
 ## Introduction 🤗
 
-My name is **Yurpalov Sergey**, I'm a second year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the masters program [AI Talent Hub](https://ai.itmo.ru/) from SPB, Russia. Currently working as Senior ML/LLM Engineer.
+My name is **Yurpalov Sergey**, I'm a second year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the masters program [AI Talent Hub](https://ai.itmo.ru/). Currently working as Senior ML/LLM Engineer.
 
 **_I'm always open for new opportunities and interesting projects!_**
 
